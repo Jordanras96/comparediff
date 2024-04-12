@@ -1,0 +1,78 @@
+# Dossiers
+node_modules/
+.pnpm/
+dist/
+out/
+.cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs et fichiers de build
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.pid
+*.seed
+*.pid.lock
+*.log
+*.log.*
+*.eslintcache
+*.swp
+*.out
+
+# Fichiers temporaires
+*.tmp
+
+# Fichiers de sauvegarde
+*~
+*.bak
+*.backup
+*.orig
+
+# Fichiers de dépendances
+package-lock.json
+pnpm-lock.yaml
+
+# Fichiers de configuration pour éditeurs
+.vscode/
+.idea/
+*.code-workspace
+
+# Cache et fichiers temporaires créés par editors
+.cache/
+.project
+.settings/
+*.tmproj
+*.esproj
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.gz
+
+# Autres fichiers
+*.class
+*.iml
+*.log
+*.war
+*.ear
+*.data
+*.jks
+*.jks.old

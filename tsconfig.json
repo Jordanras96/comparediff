@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ESNext",
+    "noEmitOnError": true,
+    "strict": true,
+    "removeComments": true
+  },
+  "files": ["src/app.ts"]
+}
